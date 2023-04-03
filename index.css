@@ -4,6 +4,8 @@ body {
     box-sizing: border-box;
     font-family: 'Inter', sans-serif;
     font-size: 16px;
+    background-color:#1C1C1C;
+    ;
 }
 
 /* HEADER STYLES */
@@ -20,7 +22,7 @@ body {
     margin-bottom: 30px;
 }
 
-#unitInput {
+#input-el {
     display: block;
     margin:0 auto;
     width: 120px;
@@ -55,7 +57,6 @@ body {
     padding: 25px;
     
 }
-
 .quantity-box {
     background-color: #273549;
     padding: 20px 0;
