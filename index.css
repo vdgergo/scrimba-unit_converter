@@ -1,5 +1,6 @@
 body {
-    margin: 0;
+    margin: 30px auto;
+    width: 600px;
     text-align: center;
     box-sizing: border-box;
     font-family: 'Inter', sans-serif;
